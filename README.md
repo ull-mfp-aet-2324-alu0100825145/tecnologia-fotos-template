@@ -1,2 +1,3 @@
-# tecnologia-fotos-template
-Subir una foto
+#Subir una foto
+
+Sube una foto al fichero README.md del repositorio
