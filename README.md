@@ -31,4 +31,4 @@ Bienvenidos
 
 # Subir una foto
 
-Sube una foto al fichero README.md del repositorio
+Sube una foto al fichero README.md del repositorio indicando con qué ISO, apertura del diagrama y velocidad de obturación la haz realizado.
